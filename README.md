@@ -14,3 +14,5 @@ so that readers who are visually impaired can understand what is on the website.
 * Heading attributes are sequential.
 
 * The title element is descriptive and concise.
+
+In the CSS document, I combined some attributes in order to clean up the file.
