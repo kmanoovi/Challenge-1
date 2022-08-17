@@ -6,8 +6,6 @@ This HTML is a refactor HTML, in which I have made a few changes to clean up the
 
 * The structure of the elements should be logical and in order.
 
-# Accessibility 
-
 It is important for those with partial or total loss of sight to be able to interact with websites. I have added alt text to images
 so that readers who are visually impaired can understand what is on the website.
 
