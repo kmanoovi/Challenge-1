@@ -20,11 +20,8 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
-
 .header section {
+    color: #d9dcd6
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -86,12 +83,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
+.benefit-lead, .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -101,12 +93,7 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
+.benefit-lead h3, .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
